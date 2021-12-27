@@ -13,8 +13,9 @@ A set of algorithms written with C++
 
 ## Help
 
-Any advise for common problems or issues.
-```
+list link to all algorithms
+
+```html
 command to run if program contains helper info
 ```
 
