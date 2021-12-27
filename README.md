@@ -15,16 +15,19 @@ A set of algorithms written with C++
 
 list link to all algorithms
 
-```html
-Algorithms : https://github.com/aminzayer/CPPApps/tree/main/Algorithms
-```
+
+<li> [Algorithms](https://github.com/aminzayer/CPPApps/tree/main/Algorithms) </li>
+
 
 ## Authors
 
 Amin Zayeromali
+
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=aminzayer.aminzayer)
+
 [![Github](https://img.shields.io/github/followers/aminzayer?label=Follow&style=social)](https://github.com/aminzayer)
-[@AminZayeromali](https://twitter.com/aminzayeromali)
+
+Twitter: [@AminZayeromali](https://twitter.com/aminzayeromali)
 
 
 <h2> Connect with me </h2>
