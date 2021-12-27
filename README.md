@@ -16,7 +16,7 @@ A set of algorithms written with C++
 list link to all algorithms
 
 
-<li> [Algorithms](https://github.com/aminzayer/CPPApps/tree/main/Algorithms) </li>
+- [Algorithms](https://github.com/aminzayer/CPPApps/tree/main/Algorithms)
 
 
 ## Authors
